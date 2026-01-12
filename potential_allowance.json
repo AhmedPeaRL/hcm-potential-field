@@ -1,0 +1,9 @@
+{
+  "layer": "potential",
+  "state": {
+    "unrealized": true,
+    "not_waiting": true,
+    "not_forced": true
+  },
+  "principle": "What can happen is not obliged to happen."
+}
